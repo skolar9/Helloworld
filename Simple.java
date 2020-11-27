@@ -2,5 +2,7 @@ class Simple{
 public static void main(String args[]){
 System. out. println("Hello Java master commit changes");
   new commit;
+System. out. println("new branch commit changes");
+
 }
 }
